@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="pl.charmas.android.reactivelocation">
+<manifest package="pl.charmas.android.reactivelocation"
+    tools:overrideLibrary="com.mapzen.lost"
+    xmlns:tools="http://schemas.android.com/tools">
 
     <application></application>
 </manifest>
